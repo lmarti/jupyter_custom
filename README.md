@@ -1,2 +1,2 @@
 # jupyter_custom
-Jupyter notebooks customization shared -most of- my notebooks.
+Jupyter notebooks customization shared by -most of- my notebooks.
