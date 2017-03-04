@@ -1,17 +1,9 @@
+<link href="https://fonts.googleapis.com/css?family=Titillium+Web" rel="stylesheet">
 <link href='https://fonts.googleapis.com/css?family=Inconsolata:400,700' rel='stylesheet' type='text/css'/>
 <style>
-@font-face {
-    font-family: 'Biolinum';
-    src: url('https://github.com/lmarti/jupyter_custom/blob/master/fonts/biolinum-webfont.eot?raw=true');
-    src: url('https://github.com/lmarti/jupyter_custom/blob/master/fonts/biolinum-webfont.eot?raw=true&#iefix') format('embedded-opentype'),
-         url('https://github.com/lmarti/jupyter_custom/blob/master/fonts/biolinum-webfont.woff?raw=true') format('woff'),
-         url('https://github.com/lmarti/jupyter_custom/blob/master/fonts/biolinum-webfont.ttf?raw=true') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-}
 .text_cell_render h1 h2 h3 h4 h5 {
 font-style:regular;
-font-family: 'Biolinum', sans-serif;
+font-family: 'Titillium Web', sans-serif;
 display: block;
 }
 /*font-weight: 200;*/
@@ -28,7 +20,7 @@ color:#4a4a4a;
 }
 
 .reveal h1 {
-font-family: 'Biolinum', sans-serif;
+font-family: 'Titillium Web', sans-serif;
 /*font-size: 24pt;*/
 font-weight: bold;
 margin-bottom: 0.1em;
@@ -60,7 +52,7 @@ margin-top: 0.3em;
 color:#595959;
 }
 div.text_cell_render{
-font-family: 'Biolinum', sans-serif;
+font-family: 'Titillium Web', sans-serif;
 line-height: 120%;
 font-size: 100%;
 font-weight: 400;
@@ -69,7 +61,7 @@ margin-left:0em;
 margin-right:0em;
 }
 .reveal div.text_cell_render{
-font-family: 'Biolinum', sans-serif;
+font-family: 'Titillium Web', sans-serif;
 line-height: 120%;
 font-size: 74%;
 font-weight: 400;
@@ -78,7 +70,7 @@ margin-left:0em;
 margin-right:0em;
 }
 .reveal h1 {
-font-family: 'Biolinum', sans-serif;
+font-family: 'Titillium Web', sans-serif;
 /*font-size: 90%; */
 /*font-size: 24pt;*/
 font-weight: bold;
@@ -87,7 +79,7 @@ margin-top: 0.5em;
 color:#4a4a4a;
 }
 .reveal h2 {
-font-family: 'Biolinum', sans-serif;
+font-family: 'Titillium Web', sans-serif;
 /*font-size: 24pt;*/
 font-weight: bold;
 margin-bottom: 0.1em;
@@ -95,7 +87,7 @@ margin-top: 0.5em;
 color:#595959;
 }
 .reveal h3 {
-font-family: 'Biolinum', sans-serif;
+font-family: 'Titillium Web', sans-serif;
 /*font-size: 24pt;*/
 font-weight: bold;
 margin-bottom: 0.1em;
@@ -103,7 +95,7 @@ margin-top: 0.5em;
 color:#595959;
 }
 .reveal h4 {
-font-family: 'Biolinum', sans-serif;
+font-family: 'Titillium Web', sans-serif;
 font-weight: bold;
 margin-bottom: 0.1em;
 margin-top: 0.5em;
@@ -124,23 +116,6 @@ font-family: 'Inconsolata', monospace;
 .CodeMirror{
 font-family: "Inconsolata", monospace;
 }
-/*body{
-  font-family: 'Biolinum', sans-serif;
-}*/
 </style>
 <script>
-    MathJax.Hub.Config({
-                        TeX: {
-                           extensions: ["AMSmath.js","color.js"],
-                           equationNumbers: { autoNumber: "all"}
-                           },
-                tex2jax: {
-                    inlineMath: [ ['$','$'], ["\\(","\\)"] ],
-                    displayMath: [ ['$$','$$'], ["\\[","\\]"] ]
-                },
-                displayAlign: 'center', // Change this to 'center' to center equations.
-                "HTML-CSS": {
-                    styles: {'.MathJax_Display': {"margin": 4}}
-                }
-        });
 </script>
