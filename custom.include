@@ -2,10 +2,10 @@
 <style>
 @font-face {
     font-family: 'Biolinum';
-    src: url('fonts/biolinum-webfont.eot');
-    src: url('fonts/biolinum-webfont.eot?#iefix') format('embedded-opentype'),
-         url('fonts/biolinum-webfont.woff') format('woff'),
-         url('fonts/biolinum-webfont.eot.ttf') format('truetype');
+    src: url('https://github.com/lmarti/jupyter_custom/blob/master/fonts/biolinum-webfont.eot?raw=true');
+    src: url('https://github.com/lmarti/jupyter_custom/blob/master/fonts/biolinum-webfont.eot?raw=true&#iefix') format('embedded-opentype'),
+         url('https://github.com/lmarti/jupyter_custom/blob/master/fonts/biolinum-webfont.woff?raw=true') format('woff'),
+         url('https://github.com/lmarti/jupyter_custom/blob/master/fonts/biolinum-webfont.ttf?raw=true') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
