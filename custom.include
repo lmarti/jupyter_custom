@@ -104,6 +104,9 @@ color:#595959;
 .reveal code {
 font-family: 'Inconsolata', monospace;
 }
+.reveal .code_cell {
+    font-size: 74%;
+}
 .reveal pre {
 font-family: 'Inconsolata', monospace;
 }
