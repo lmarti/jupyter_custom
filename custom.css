@@ -101,6 +101,9 @@ margin-bottom: 0.1em;
 margin-top: 0.5em;
 color:#595959;
 }
+.reveal .code_cell {
+    font-size: 74%;
+}
 .reveal code {
 font-family: 'Inconsolata', monospace;
 }
