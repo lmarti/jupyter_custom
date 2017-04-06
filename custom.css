@@ -1,7 +1,6 @@
-<<<<<<< Updated upstream
-<link href="https://fonts.googleapis.com/css?family=Titillium+Web" rel="stylesheet">
-<link href='https://fonts.googleapis.com/css?family=Inconsolata:400,700' rel='stylesheet' type='text/css'/>
-<style>
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web');
+@import url('https://fonts.googleapis.com/css?family=Inconsolata:400,700');
+
 .text_cell_render h1 h2 h3 h4 h5 {
 font-style:regular;
 font-family: 'Titillium Web', sans-serif;
@@ -105,9 +104,6 @@ color:#595959;
 .reveal code {
 font-family: 'Inconsolata', monospace;
 }
-.reveal .code_cell {
-    font-size: 74%;
-}
 .reveal pre {
 font-family: 'Inconsolata', monospace;
 }
@@ -120,10 +116,3 @@ font-family: 'Inconsolata', monospace;
 .CodeMirror{
 font-family: "Inconsolata", monospace;
 }
-</style>
-<script>
-</script>
-=======
-<link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/lmarti/jupyter_custom/master/custom.css"/>
-<script src="https://raw.githubusercontent.com/lmarti/jupyter_custom/master/custom.js"/>
->>>>>>> Stashed changes
