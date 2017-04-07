@@ -1,9 +1,11 @@
-@import url('https://fonts.googleapis.com/css?family=Titillium+Web');
+/*@import url('https://fonts.googleapis.com/css?family=Titillium+Web');
 @import url('https://fonts.googleapis.com/css?family=Inconsolata:400,700');
+*/
 
-.text_cell_render h1 h2 h3 h4 h5 {
-font-style:regular;
-font-family: 'Titillium Web', sans-serif;
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville|Quattrocento|Quattrocento+Sans|Inconsolata')
+.text_cell_render {
+font-style: regular;
+font-family: 'Libre Baskerville', serif;
 display: block;
 }
 /*font-weight: 200;*/
@@ -13,6 +15,7 @@ display: block;
 }*/
 .text_cell_render h1 {
 /*font-size: 24pt;*/
+font-family: 'Quattrocento Sans', sans-serif;
 font-weight: bold;
 margin-bottom: 0.1em;
 margin-top: 0.5em;
@@ -20,7 +23,7 @@ color:#4a4a4a;
 }
 
 .reveal h1 {
-font-family: 'Titillium Web', sans-serif;
+font-family: 'Quattrocento Sans', sans-serif;
 /*font-size: 24pt;*/
 font-weight: bold;
 margin-bottom: 0.1em;
@@ -29,30 +32,33 @@ color:#4a4a4a;
 }
 .text_cell_render h2 {
 /*font-size: 21pt;*/
+    font-family: 'Quattrocento Sans', sans-serif;
 margin-bottom: 0.1em;
 margin-top: 0.3em;
 color:#595959;
 }
 .text_cell_render h3 {
+    font-family: 'Quattrocento Sans', sans-serif;
 /*font-size: 19pt;*/
 margin-bottom: 0.1em;
 margin-top: 0.3em;
 color:#595959;
 }
 .text_cell_render h4 {
+    font-family: 'Quattrocento Sans', sans-serif;
 /*font-size: 17pt;*/
 margin-bottom: 0.1em;
 margin-top: 0.3em;
 color:#595959;
 }
 .text_cell_render h5 {
+    font-family: 'Quattrocento Sans', sans-serif;
 /*font-size: 15pt;*/
 margin-bottom: 0.1em;
 margin-top: 0.3em;
 color:#595959;
 }
 div.text_cell_render{
-font-family: 'Titillium Web', sans-serif;
 line-height: 120%;
 font-size: 100%;
 font-weight: 400;
@@ -61,7 +67,6 @@ margin-left:0em;
 margin-right:0em;
 }
 .reveal div.text_cell_render{
-font-family: 'Titillium Web', sans-serif;
 line-height: 120%;
 font-size: 74%;
 font-weight: 400;
@@ -69,17 +74,9 @@ text-align: justify;
 margin-left:0em;
 margin-right:0em;
 }
-.reveal h1 {
-font-family: 'Titillium Web', sans-serif;
-/*font-size: 90%; */
-/*font-size: 24pt;*/
-font-weight: bold;
-margin-bottom: 0.1em;
-margin-top: 0.5em;
-color:#4a4a4a;
-}
+
 .reveal h2 {
-font-family: 'Titillium Web', sans-serif;
+font-family: 'Quattrocento Sans', sans-serif;
 /*font-size: 24pt;*/
 font-weight: bold;
 margin-bottom: 0.1em;
@@ -87,7 +84,7 @@ margin-top: 0.5em;
 color:#595959;
 }
 .reveal h3 {
-font-family: 'Titillium Web', sans-serif;
+font-family: 'Quattrocento Sans', sans-serif;
 /*font-size: 24pt;*/
 font-weight: bold;
 margin-bottom: 0.1em;
@@ -95,14 +92,14 @@ margin-top: 0.5em;
 color:#595959;
 }
 .reveal h4 {
-font-family: 'Titillium Web', sans-serif;
+font-family: 'Quattrocento Sans', sans-serif;
 font-weight: bold;
 margin-bottom: 0.1em;
 margin-top: 0.5em;
 color:#595959;
 }
 .reveal .code_cell {
-    font-size: 74%;
+    font-size: 83%;
 }
 .reveal code {
 font-family: 'Inconsolata', monospace;
