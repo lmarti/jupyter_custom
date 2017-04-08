@@ -1,8 +1,8 @@
-<link href="https://fonts.googleapis.com/css?family=Proza+Libre|Scope+One|Inconsolata" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Avenir|Scope+One|Inconsolata" rel="stylesheet">
 <style>
 .text_cell_render {
 font-style: regular;
-font-family: 'Proza Libre', serif;
+font-family: 'Avenir', serif;
 display: block;
 }
 /*font-weight: 200;*/
