@@ -1,8 +1,8 @@
-<link href="https://fonts.googleapis.com/css?family=Scope+One|Libre+Baskerville|Inconsolata" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Proza+Libre|Scope+One|Inconsolata" rel="stylesheet">
 <style>
 .text_cell_render {
 font-style: regular;
-font-family: 'Libre Baskerville', serif;
+font-family: 'Proza Libre', serif;
 display: block;
 }
 /*font-weight: 200;*/
