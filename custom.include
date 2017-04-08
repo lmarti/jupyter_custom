@@ -2,7 +2,7 @@
 <style>
 .text_cell_render {
 font-style: regular;
-font-family: 'Inconsolata', serif;
+font-family: 'Quattrocento', serif;
 display: block;
 }
 /*font-weight: 200;*/
