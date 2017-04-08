@@ -2,7 +2,7 @@
 <style>
 .text_cell_render h1 h2 h3 h4 h5{
 font-style: regular;
-font-family: 'Libre Baskerville', serif;
+font-family: 'Quattrocento', serif;
 display: block;
 }
 /*font-weight: 200;*/
