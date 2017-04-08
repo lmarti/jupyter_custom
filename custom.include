@@ -1,2 +1,2 @@
 <link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/lmarti/jupyter_custom/master/custom.css"/>
-<script src="https://raw.githubusercontent.com/lmarti/jupyter_custom/master/custom.js"/>
+<script type="text/javascript" src="https://raw.githubusercontent.com/lmarti/jupyter_custom/master/custom.js"/>
