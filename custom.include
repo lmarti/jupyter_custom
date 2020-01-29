@@ -25,15 +25,15 @@ color:#4a4a4a;
 font-family: 'Inria Sans', "Helvetica Neue", Arial, "Noto Sans", sans-serif;
 /*font-size: 24pt;*/
 font-weight: bold;
-margin-bottom: 0.1em;
-margin-top: 0.5em;
+margin-bottom: 0.47em;
+margin-top: 0.74em;
 color:#4a4a4a;
 }
 .text_cell_render h2 {
 /*font-size: 21pt;*/
     font-family: 'Inria Sans', "Helvetica Neue", Arial, "Noto Sans", sans-serif;
-margin-bottom: 0.1em;
-margin-top: 0.3em;
+margin-bottom: 0.29em;
+margin-top: 0.38em;
 color:#595959;
 }
 .text_cell_render h3 {
