@@ -3,105 +3,105 @@
 <link href="https://fonts.googleapis.com/css?family=Inconsolata" rel="stylesheet">
 <style>
 body {
-  overflow-x: hidden;
-  color: #384257;
-  font-family: 'Inria Sans', "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+    overflow-x: hidden;
+    color: #384257;
+    font-family: 'Inria Sans', "Helvetica Neue", Arial, "Noto Sans", sans-serif;
 }
 
 .text_cell_render {
-font-style: regular;
-font-family: 'Inria Sans', "Helvetica Neue", Arial, "Noto Sans", sans-serif;
-display: block;
+    font-style: regular;
+    font-family: 'Inria Sans', "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+    display: block;
 }
 
 .text_cell_render h1 {
-/*font-size: 24pt;*/
-font-family: 'Inria Serif', Georgia, serif; 
-font-weight: bold;
-margin-bottom: 0.1em;
-margin-top: 0.5em;
-color:#384257;
+    font-family: 'Inria Serif', Georgia, serif; 
+    font-weight: bold;
+    margin-bottom: 0.1em;
+    margin-top: 0.5em;
+    color:#384257;
 }
 
 .reveal h1 {
-font-family: 'Inria Sans', "Helvetica Neue", Arial, "Noto Sans", sans-serif;
-/*font-size: 24pt;*/
-font-weight: bold;
-margin-bottom: 0.47em;
-margin-top: 0.74em;
-color:#384257;
+    font-family: 'Inria Serif', Georgia, serif;
+    font-weight: bold;
+    margin-bottom: 0.47em;
+    margin-top: 0.74em;
+    color:#384257;
 }
+
 .text_cell_render h2 {
-/*font-size: 21pt;*/
-font-family: font-family: 'Inria Serif', Georgia, serif; /*'Inria Sans', "Helvetica Neue", Arial, "Noto Sans", sans-serif;*/
-margin-bottom: 0.29em;
-margin-top: 0.38em;
-color:#E63319; /*#595959;*/
+    font-family: 'Inria Sans', "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+    margin-bottom: 0.29em;
+    margin-top: 0.38em;
+    color:#384257;
 }
+
 .text_cell_render h3 {
     font-family: 'Inria Sans', "Helvetica Neue", Arial, "Noto Sans", sans-serif;
-/*font-size: 19pt;*/
-margin-bottom: 0.1em;
-margin-top: 0.3em;
-color:#595959;
+    margin-bottom: 0.1em;
+    margin-top: 0.3em;
+    color:#595959;
 }
 .text_cell_render h4 {
     font-family: 'Inria Sans', "Helvetica Neue", Arial, "Noto Sans", sans-serif;
-/*font-size: 17pt;*/
-margin-bottom: 0.1em;
-margin-top: 0.3em;
-color:#595959;
+    margin-bottom: 0.1em;
+    margin-top: 0.3em;
+    color:#595959;
 }
 .text_cell_render h5 {
     font-family: 'Inria Sans', "Helvetica Neue", Arial, "Noto Sans", sans-serif;
-/*font-size: 15pt;*/
-margin-bottom: 0.1em;
-margin-top: 0.3em;
-color:#595959;
+    margin-bottom: 0.1em;
+    margin-top: 0.3em;
+    color:#595959;
 }
+
 div.text_cell_render{
-line-height: 120%;
-font-size: 100%;
-font-weight: 400;
-text-align: justify;
-margin-left:0em;
-margin-right:0em;
+    line-height: 120%;
+    font-size: 100%;
+    font-weight: 400;
+    text-align: justify;
+    margin-left:0em;
+    margin-right:0em;
 }
+
 .reveal div.text_cell_render{
-line-height: 120%;
-font-size: 74%;
-font-weight: 400;
-text-align: justify;
-margin-left:0em;
-margin-right:0em;
+    line-height: 120%;
+    font-size: 74%;
+    font-weight: 400;
+    text-align: justify;
+    margin-left:0em;
+    margin-right:0em;
 }
 
 .reveal h2 {
-font-family: 'Inria Sans', "Helvetica Neue", Arial, "Noto Sans", sans-serif;
-/*font-size: 24pt;*/
-font-weight: bold;
-margin-bottom: 0.1em;
-margin-top: 0.5em;
-color:#595959;
+    font-family: 'Inria Sans', "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+    font-weight: bold;
+    margin-bottom: 0.1em;
+    margin-top: 0.5em;
+    color:#595959;
 }
+
 .reveal h3 {
-font-family: 'Inria Sans', "Helvetica Neue", Arial, "Noto Sans", sans-serif;
-/*font-size: 24pt;*/
-font-weight: bold;
-margin-bottom: 0.1em;
-margin-top: 0.5em;
-color:#595959;
+    font-family: 'Inria Sans', "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+    font-weight: bold;
+    margin-bottom: 0.1em;
+    margin-top: 0.5em;
+    color:#595959;
 }
+
 .reveal h4 {
-font-family: 'Inria Sans', "Helvetica Neue", Arial, "Noto Sans", sans-serif;
-font-weight: bold;
-margin-bottom: 0.1em;
-margin-top: 0.5em;
-color:#595959;
+    font-family: 'Inria Sans', "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+    font-weight: bold;
+    margin-bottom: 0.1em;
+    margin-top: 0.5em;
+    color:#595959;
 }
+
 .reveal .code_cell {
     font-size: 92%;
 }
+
 .reveal code {
 font-family: 'Inconsolata', monospace;
 }
