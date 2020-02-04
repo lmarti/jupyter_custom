@@ -2,23 +2,24 @@
 <link rel="stylesheet" href="https://files.inria.fr/dircom/extranet/fonts-inria-serif.css" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Inconsolata" rel="stylesheet">
 <style>
+body {
+  overflow-x: hidden;
+  color: #384257;
+  font-family: 'Inria Sans', "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+}
 .text_cell_render {
 font-style: regular;
-font-family: "Inria Serif", Georgia, serif; 
+font-family: 'Inria Sans', "Helvetica Neue", Arial, "Noto Sans", sans-serif;
 display: block;
 }
-/*font-weight: 200;*/
-/*text-align: left;
-line-height: 100%;
-display: block;
-}*/
+
 .text_cell_render h1 {
 /*font-size: 24pt;*/
-font-family: 'Inria Sans', "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+font-family: "Inria Serif", Georgia, serif; 
 font-weight: bold;
 margin-bottom: 0.1em;
 margin-top: 0.5em;
-color:#4a4a4a;
+color:#384257;
 }
 
 .reveal h1 {
@@ -27,7 +28,7 @@ font-family: 'Inria Sans', "Helvetica Neue", Arial, "Noto Sans", sans-serif;
 font-weight: bold;
 margin-bottom: 0.47em;
 margin-top: 0.74em;
-color:#4a4a4a;
+color:#384257;
 }
 .text_cell_render h2 {
 /*font-size: 21pt;*/
