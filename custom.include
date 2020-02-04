@@ -7,6 +7,7 @@ body {
   color: #384257;
   font-family: 'Inria Sans', "Helvetica Neue", Arial, "Noto Sans", sans-serif;
 }
+
 .text_cell_render {
 font-style: regular;
 font-family: 'Inria Sans', "Helvetica Neue", Arial, "Noto Sans", sans-serif;
@@ -15,7 +16,7 @@ display: block;
 
 .text_cell_render h1 {
 /*font-size: 24pt;*/
-font-family: "Inria Serif", Georgia, serif; 
+font-family: 'Inria Serif', Georgia, serif; 
 font-weight: bold;
 margin-bottom: 0.1em;
 margin-top: 0.5em;
@@ -32,10 +33,10 @@ color:#384257;
 }
 .text_cell_render h2 {
 /*font-size: 21pt;*/
-    font-family: 'Inria Sans', "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+font-family: font-family: 'Inria Serif', Georgia, serif; /*'Inria Sans', "Helvetica Neue", Arial, "Noto Sans", sans-serif;*/
 margin-bottom: 0.29em;
 margin-top: 0.38em;
-color:#595959;
+color:#E63319; /*#595959;*/
 }
 .text_cell_render h3 {
     font-family: 'Inria Sans', "Helvetica Neue", Arial, "Noto Sans", sans-serif;
