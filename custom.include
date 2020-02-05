@@ -2,12 +2,6 @@
 <link rel="stylesheet" href="https://files.inria.fr/dircom/extranet/fonts-inria-serif.css" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Inconsolata" rel="stylesheet">
 <style>
-body {
-    overflow-x: hidden;
-    color: #384257;
-    font-family: 'Inria Sans', "Helvetica Neue", Arial, "Noto Sans", sans-serif;
-}
-
 .text_cell_render {
     font-style: regular;
     font-family: 'Inria Sans', "Helvetica Neue", Arial, "Noto Sans", sans-serif;
