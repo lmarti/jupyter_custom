@@ -18,7 +18,10 @@ Jupyter notebooks customization shared by -most of- my notebooks.
 
 ```python
 # this code is here for cosmetic reasons
-from IPython.core.display import HTML
-from urllib.request import urlopen
-HTML(urlopen('https://raw.githubusercontent.com/lmarti/jupyter_custom/master/custom.include').read().decode('utf-8'))
+try:
+    from IPython.core.display import HTML
+    from urllib.request import urlopen
+    HTML(urlopen('https://raw.githubusercontent.com/lmarti/jupyter_custom/master/custom.include').read().decode('utf-8'))
+except OSError:
+    print('Warning: Visual customizations could not be loaded probably becase of missing Internet connection.')
 ```
