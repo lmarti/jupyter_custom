@@ -13,7 +13,7 @@
     font-weight: bold;
     margin-bottom: 0.1em;
     margin-top: 0.5em;
-    color:#384257;
+    color:#E63319;
 }
 
 .reveal h1 {
@@ -21,14 +21,14 @@
     font-weight: bold;
     margin-bottom: 0.47em;
     margin-top: 0.74em;
-    color:#384257;
+    color:#E63319;
 }
 
 .text_cell_render h2 {
     font-family: 'Inria Serif', Georgia, serif;
     margin-bottom: 0.29em;
     margin-top: 0.38em;
-    color:#384257;
+    color:#E63319;
 }
 
 .text_cell_render h3 {
@@ -73,7 +73,7 @@ div.text_cell_render{
     font-weight: bold;
     margin-bottom: 0.1em;
     margin-top: 0.5em;
-    color:#595959;
+    color:#E63319;
 }
 
 .reveal h3 {
